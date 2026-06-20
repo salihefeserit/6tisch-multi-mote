@@ -335,3 +335,4 @@ This project is derived from the Contiki-NG 6TiSCH example by
 [Simon Duquennoy](mailto:simonduq@sics.se) (SICS Swedish ICT) and is
 distributed under the **3-Clause BSD License**. See the file headers for the
 full license text.
+# 6tisch-firm-sending
